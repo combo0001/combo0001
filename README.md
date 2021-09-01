@@ -13,4 +13,4 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-![Snake animation](https://github.com/combo0001/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/combo0001/blob/output/github-contribution-grid-snake.svg)
