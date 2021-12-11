@@ -18,7 +18,7 @@
 
 ># Skills, tools and frameworks:
 
-<table>
+<table style="overflow:hidden">
   <tr>
     <td align="center" width="96">
       <a href="#javascript">
@@ -38,14 +38,6 @@
       </a>
       <br>Lua
     </td>
-    </tr>
-    <tr>
-    <td align="center" width="96">
-      <a href="#ejs">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="48" height="48" alt="Ejs" />
-      </a>
-      <br>EJS
-    </td>
     <td align="center" width="96">
       <a href="#html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML" />
@@ -57,12 +49,6 @@
         <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#discordjs">
-        <img src="https://discord.js.org/static/logo-square.png" width="48" height="48" alt="Discord.js" />
-      </a>
-      <br>Discord.js
     </td>
     <td align="center" width="96">
       <a href="#sql">
