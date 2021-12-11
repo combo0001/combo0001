@@ -16,7 +16,7 @@
   
 <br />
 
-># Skills, tools and frameworks:
+## Ferramentas e Frameworks:
 
 <table style="overflow:hidden">
   <tr>
@@ -49,12 +49,6 @@
         <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#sql">
-        <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
     </td>
   </tr>
 </table>
