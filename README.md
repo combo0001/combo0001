@@ -14,11 +14,65 @@
   
 ## Tecnologias:
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<br />
+
+># Skills, tools and frameworks:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#nodejs">
+        <img src="https://thidu.dev/images/Nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#lua">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
+      </a>
+      <br>Lua
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="#ejs">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="48" height="48" alt="Ejs" />
+      </a>
+      <br>EJS
+    </td>
+    <td align="center" width="96">
+      <a href="#html">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#css">
+        <img src="https://llumine.com.br/wp-content/uploads/2018/03/css-logo-300x300.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#discordjs">
+        <img src="https://discord.js.org/static/logo-square.png" width="48" height="48" alt="Discord.js" />
+      </a>
+      <br>Discord.js
+    </td>
+    <td align="center" width="96">
+      <a href="#sql">
+        <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ![Snake animation](https://github.com/combo0001/combo0001/blob/output/github-contribution-grid-snake.svg)
