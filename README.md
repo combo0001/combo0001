@@ -54,5 +54,5 @@
 </table>
 
 <br />
-
+ 
 ![Snake animation](https://github.com/combo0001/combo0001/blob/output/github-contribution-grid-snake.svg)
